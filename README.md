@@ -1,2 +1,6 @@
-# ender-3v2-cura
-My thus far perfect cura settings for the Ender 3v2
+# Ender 3v2 Cura Profile
+My tweaked Cura Settings for my current High Quality print setup
+
+Material: PLA
+Filament Size: 1.75mm
+
